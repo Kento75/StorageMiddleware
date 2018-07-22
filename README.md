@@ -1,1 +1,2 @@
 # StorageMiddleware
+Reactのミドルウェア検証
